@@ -4,13 +4,15 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 class MultidemiArray {
+@SuppressWarnings("unused")
 public static void main(String[] args) {
     /*  
      * 1 2 3
      * 4 5 6
      * 7 8 4
      */
-     Scanner in = new Scanner(System.in);
+     @SuppressWarnings("resource")
+   Scanner in = new Scanner(System.in);
      int[][] arr = new int[3][]; // rows mandatory but columns not mandatory
 
      int[][] matrix = {

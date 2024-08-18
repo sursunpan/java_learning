@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Inputs {
     // array of primitive....
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner in = new Scanner(System.in);
         int[] arr = new int[5];
         arr[0] = 5;

@@ -1,7 +1,8 @@
 package Arrays;
 
 public class Arrays {
-     public static void main(String[] args) {
+     @SuppressWarnings("unused")
+   public static void main(String[] args) {
         /* Array */
         int[] rnos = new int[5];
         // or

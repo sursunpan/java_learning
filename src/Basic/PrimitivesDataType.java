@@ -1,4 +1,5 @@
 public class PrimitivesDataType {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         int rollNo = 54;
         char letter = 'r';

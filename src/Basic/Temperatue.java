@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Temperatue {
     public static void main(String[] args) {
+        @SuppressWarnings("resource")
         Scanner in = new Scanner(System.in);
         System.out.print("Please enter temp in C: ");
         float tempC = in.nextFloat();
