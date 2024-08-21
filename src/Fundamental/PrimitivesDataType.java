@@ -1,3 +1,4 @@
+package Fundamental;
 public class PrimitivesDataType {
     @SuppressWarnings("unused")
     public static void main(String[] args) {

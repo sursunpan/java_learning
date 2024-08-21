@@ -1,3 +1,4 @@
+package Fundamental;
 public class Condition {
   public static void main(String[] args) {
     int salary = 25400;
